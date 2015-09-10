@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>gov.epa</groupId>
+  <artifactId>OverallSets</artifactId>
+  <versioning>
+    <release>1.0-PGAdded</release>
+    <versions>
+      <version>1.0-PGAdded</version>
+    </versions>
+    <lastUpdated>20150320172720</lastUpdated>
+  </versioning>
+</metadata>

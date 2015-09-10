@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>nz.ac.waikato.cms.weka</groupId>
+  <artifactId>weka-stable</artifactId>
+  <versioning>
+    <release>2009-PGExtract</release>
+    <versions>
+      <version>2009-PGExtract</version>
+    </versions>
+    <lastUpdated>20150320164002</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>eu.vega-qsar</groupId>
+  <artifactId>caesarBase</artifactId>
+  <versioning>
+    <release>1.0.0.2-PGExtracted</release>
+    <versions>
+      <version>1.0.0.2-PGExtracted</version>
+    </versions>
+    <lastUpdated>20150320063833</lastUpdated>
+  </versioning>
+</metadata>

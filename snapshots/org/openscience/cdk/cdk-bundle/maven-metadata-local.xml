@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.openscience.cdk</groupId>
+  <artifactId>cdk-bundle</artifactId>
+  <versioning>
+    <release>1.0.4-PGExtracted</release>
+    <versions>
+      <version>1.0.2-PGExtracted</version>
+      <version>1.0.4-PGExtracted</version>
+    </versions>
+    <lastUpdated>20150419174643</lastUpdated>
+  </versioning>
+</metadata>

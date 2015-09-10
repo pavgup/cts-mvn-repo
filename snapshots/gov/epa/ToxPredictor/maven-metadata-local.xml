@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>gov.epa</groupId>
+  <artifactId>ToxPredictor</artifactId>
+  <versioning>
+    <release>1.1-PGUpdated</release>
+    <versions>
+      <version>1.1-PGUpdated</version>
+    </versions>
+    <lastUpdated>20150320143952</lastUpdated>
+  </versioning>
+</metadata>
