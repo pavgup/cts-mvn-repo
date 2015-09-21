@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.openscience.test.cdk</groupId>
+  <artifactId>cdk-pdbcml</artifactId>
+  <versioning>
+    <versions>
+      <version>1.5.11-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150921100749</lastUpdated>
+  </versioning>
+</metadata>

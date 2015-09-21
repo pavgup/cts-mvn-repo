@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Sep 21 06:11:48 EDT 2015
+cdk-interfaces-1.5.11-SNAPSHOT.pom>=
+cdk-interfaces-1.5.11-SNAPSHOT.jar>=
+cdk-interfaces-1.5.11-SNAPSHOT-tests.jar>=

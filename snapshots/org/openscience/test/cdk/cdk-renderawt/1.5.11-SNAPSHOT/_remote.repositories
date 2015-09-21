@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Sep 21 06:08:17 EDT 2015
+cdk-renderawt-1.5.11-SNAPSHOT.jar>=
+cdk-renderawt-1.5.11-SNAPSHOT-tests.jar>=
+cdk-renderawt-1.5.11-SNAPSHOT.pom>=
