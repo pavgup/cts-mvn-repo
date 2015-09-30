@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Sep 21 15:19:24 EDT 2015
+cdk-pdb-1.5.11-SNAPSHOT.pom>=
+cdk-pdb-1.5.11-SNAPSHOT-tests.jar>=
+cdk-pdb-1.5.11-SNAPSHOT.jar>=

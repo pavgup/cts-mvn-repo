@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Sep 21 15:32:40 EDT 2015
+cdk-log4j-1.5.11-SNAPSHOT-tests.jar>=
+cdk-log4j-1.5.11-SNAPSHOT.jar>=
+cdk-log4j-1.5.11-SNAPSHOT.pom>=
