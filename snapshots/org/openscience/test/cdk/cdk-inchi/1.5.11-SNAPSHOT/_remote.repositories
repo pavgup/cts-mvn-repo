@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Sep 21 15:19:34 EDT 2015
+cdk-inchi-1.5.11-SNAPSHOT.jar>=
+cdk-inchi-1.5.11-SNAPSHOT.pom>=
+cdk-inchi-1.5.11-SNAPSHOT-tests.jar>=

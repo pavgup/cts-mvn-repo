@@ -1,4 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Sep 21 06:12:01 EDT 2015
+#Mon Sep 21 15:19:19 EDT 2015
 cdk-io-1.5.11-SNAPSHOT.pom>=
+cdk-io-1.5.11-SNAPSHOT-tests.jar>=
 cdk-io-1.5.11-SNAPSHOT.jar>=
